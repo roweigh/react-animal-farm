@@ -1,9 +1,11 @@
 ## Objective
-* To learn the basics of React - Followed along with Fireship's Animal Farm tutorial.
+* To learn the basics of React
+*     Followed along with Fireship's Animal Farm tutorial.
+*     Had a refresher on basic fullstack fundamentals
 
 ## Structure
-* A basic single page React.js application
-* Uses Express.js backend simulate data fetching
+* A basic single page React.js application containing an instant search feature
+* Uses HTTP server with Node.js (Express.js) to simulate backend
 
 ## Retrospection
 * In the future, may consider attaching some modern UI framework components to improve the look and feel as a means to familiarise myself with React.
