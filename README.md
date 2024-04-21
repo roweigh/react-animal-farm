@@ -1,7 +1,7 @@
 ## Objective
 * To learn the basics of React
-*     Followed along with Fireship's Animal Farm tutorial.
-*     Had a refresher on basic fullstack fundamentals
+  * Followed along with Fireship's Animal Farm tutorial.
+  * Had a refresher on basic fullstack fundamentals
 
 ## Structure
 * A basic single page React.js application containing an instant search feature
