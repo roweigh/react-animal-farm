@@ -24,10 +24,6 @@ pnpm dev
 bun dev
 ```
 
-Change to server directory and run 
-```bash
-node . 
-```
-to run Express.js backend server
+Change to server directory and run `node .` to start Express.js backend server
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
